@@ -13,8 +13,11 @@ I mostly use GitHub for my university projects and other things I'm working on.
 
 ## University Projects
 
-### Lyse Comm Planner (Databaser og webprogrammering)
-A university group project where we built a web application for communication planning. I mainly worked on the backend using Python, Flask, and MySQL, while my teammate handled the frontend.
+### PulseBoard (Databaser og webprogrammering)
+
+A university group project where we built a web app for planning communication content. I mainly worked on the backend using Python, Flask, and MySQL, while my teammate handled the frontend.
+
+We used Lyse as a case study, but this was not an official collaboration with Lyse. The source code is kept private.
 
 ### FinanceBros (Programvareutvikling)
 A financial management application we built as a group project using C#, ASP.NET Core, and Blazor. I worked on authentication, authorization, password recovery, Discord login, and admin security checks.
