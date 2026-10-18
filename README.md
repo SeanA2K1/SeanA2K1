@@ -1,4 +1,4 @@
-# Hey, I'm Sean! 👋
+# I'm Sean! 👋
 
 I'm currently studying Computer Engineering (Datateknologi) at the University of Stavanger (UiS), Norway.
 
