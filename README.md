@@ -1,4 +1,3 @@
-
 # Hey, I'm Sean! 👋
 
 I'm currently studying Computer Engineering (Datateknologi) at the University of Stavanger (UiS), Norway.
@@ -22,7 +21,9 @@ The application includes a calendar, dashboard, content management, user authent
 
 I mainly worked on the backend using **Python, Flask, and MySQL**, while my teammate focused on the frontend. We worked together to connect both parts of the application.
 
-We used Lyse as a case study, but this was not an official collaboration with Lyse. The source code is kept private.
+We used Lyse as a case study, but this was not an official collaboration with Lyse.
+
+Since this was a university group project, the source code is kept private out of respect for the other contributors. The screenshots are shared to showcase what we built.
 
 **Dashboard**
 
@@ -52,6 +53,8 @@ My main contributions were:
 - Password recovery through email
 - Discord login integration
 - Admin panel security checks
+
+Since this was a university group project, the source code is kept private out of respect for the other contributors. The screenshots are shared to showcase what we built.
 
 **Home**
 
