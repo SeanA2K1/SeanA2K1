@@ -1,4 +1,5 @@
-# I'm Sean! 👋
+
+# Hey, I'm Sean! 👋
 
 I'm currently studying Computer Engineering (Datateknologi) at the University of Stavanger (UiS), Norway.
 
@@ -19,8 +20,27 @@ A university group project where we built a web app for planning communication c
 
 We used Lyse as a case study, but this was not an official collaboration with Lyse. The source code is kept private.
 
+**Dashboard**
+
+![PulseBoard Dashboard](assets/pulseboard-dashboard.png)
+
+<details>
+<summary>More screenshots</summary>
+
+**Calendar**
+
+![PulseBoard Calendar](assets/pulseboard-calendar.png)
+
+**Creating Content**
+
+![PulseBoard New Content](assets/pulseboard-new-content.png)
+
+</details>
+
 ### FinanceBros (Programvareutvikling)
+
 A financial management application we built as a group project using C#, ASP.NET Core, and Blazor. I worked on authentication, authorization, password recovery, Discord login, and admin security checks.
 
 ### Networking Labs (Kommunikasjonsteknologi 1)
+
 Networking exercises from university using Cisco Packet Tracer and other tools. Covered things like IP addressing, switching, routing, and troubleshooting.
